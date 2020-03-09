@@ -12,6 +12,6 @@
 #include<string.h>
 #include<pthread.h>
 
-void improper_error_handling_main();
+void void test_001();
 
 #endif /* HEADERFILE_HPP_ */
