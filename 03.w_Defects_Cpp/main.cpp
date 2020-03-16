@@ -27,7 +27,7 @@ int main(int argc,char*argv[])
             printf("vflag_file = %d vflag_func = %d vflag_copy =%d \n" , vflag_file, vflag,vflag_copy);
             if(vflag_file == 1 || vflag_file == 888)
             {
-                test_001();
+                void AllocatorTest_001();
             }
 
         }

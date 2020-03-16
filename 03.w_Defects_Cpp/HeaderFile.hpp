@@ -12,6 +12,6 @@
 #include<string.h>
 #include<pthread.h>
 
-void void test_001();
+void AllocatorTest_001();
 
 #endif /* HEADERFILE_HPP_ */
